@@ -36,7 +36,7 @@ public class PlayerPoints extends JavaPlugin {
     /**
      * Plugin tag.
      */
-    public static final String TAG = "[PlayerPoints]";
+    public static final String TAG = "Magma Points";
 
     /**
      * API instance.
