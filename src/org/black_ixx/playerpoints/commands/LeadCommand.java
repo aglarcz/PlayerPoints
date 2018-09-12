@@ -95,7 +95,7 @@ public class LeadCommand extends CommandHandler {
 
         // Header
         sender.sendMessage(ChatColor.BLUE + "=== " + ChatColor.GRAY
-                + PlayerPoints.TAG + " Leader Board " + ChatColor.BLUE + "=== "
+                + PlayerPoints.TAG + ChatColor.BLUE + "=== "
                 + ChatColor.GRAY + (current + 1) + ":" + num);
 
         // Page through
